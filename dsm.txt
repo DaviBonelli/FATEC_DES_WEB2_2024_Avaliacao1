@@ -1,0 +1,4 @@
+Laboratorio1 | 2024-09-24 | Instalar Vs code em todas as maquinas!
+Laboratorio3 | 2024-09-22 | sdfsdfdsdf
+Laboratorio1 | 2024-09-30 | instalar o xampp na maquina nº 15
+Laboratorio3 | 2024-10-15 | adicionar um computador na sala 3
